@@ -3,7 +3,7 @@ Repository for all codes, data and resources on Awadhi language that is being de
 
 The raw corpus is in the directory called 'source'. And the annotated corpus is in the directory called 'annotation'. The annotations are in CONLL 2000 format.
 
-The original dissertation is in the directory called 'publications'.
+The original dissertation and the complete tagset is in the directory called 'publications'.
 
 Please use the following to cite the corpus:
 
