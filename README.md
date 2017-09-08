@@ -6,6 +6,7 @@ The raw corpus is in the directory called 'source'. And the annotated corpus is 
 The original dissertation is in the directory called 'publications'.
 
 Please use the following to cite the corpus:
+
 Basit, Abdul. 2017. A POS Annotated Corpus of Awadhi Language. Unpublished M.Phil. Dissertation, Dr. Bhim Rao Ambedkar University, Agra
 
 For any queries, offers of collaboration and others, please send an email to linguistics[dot]kmi[at]gmail[dot]com
